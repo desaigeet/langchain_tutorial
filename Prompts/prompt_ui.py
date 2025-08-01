@@ -29,6 +29,7 @@ prompt = template.invoke({
     "style": user_input_style,
     "length": user_input_style
 })
-if st.button:
+if st.button("Summarize"):
     result = model.invoke(prompt)
     st.write(f"Summary:{result.content}") 
+    
