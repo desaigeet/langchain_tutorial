@@ -1,0 +1,76 @@
+
+===========================================
+             CRICKET: AN OVERVIEW
+===========================================
+
+1. INTRODUCTION
+---------------
+Cricket is a bat-and-ball game played between two teams of eleven players. Originating in England, it is now popular globally, especially in India, Australia, England, Pakistan, and South Africa.
+
+2. FORMATS OF CRICKET
+---------------------
+a. Test Matches:
+   - Duration: 5 days
+   - White clothing, red ball
+   - True test of skill, endurance, and strategy
+
+b. One Day Internationals (ODIs):
+   - 50 overs per side
+   - Introduced in the 1970s
+   - World Cup is the most prestigious ODI event
+
+c. Twenty20 (T20):
+   - 20 overs per side
+   - Fast-paced, entertainment-focused
+   - IPL, BBL, and T20 World Cup are notable events
+
+3. RULES IN BRIEF
+-----------------
+- Each team bats once (or twice in Tests).
+- The batting side scores runs; the bowling side aims to dismiss batsmen.
+- Common modes of dismissal: Bowled, Caught, LBW, Run Out, Stumped
+
+4. POPULAR PLAYERS
+------------------
+- Sachin Tendulkar (India)
+- M.S. Dhoni (India)
+- Virat Kohli (India)
+- Ricky Ponting (Australia)
+- Jacques Kallis (South Africa)
+- Ben Stokes (England)
+- Babar Azam (Pakistan)
+
+5. LEGENDARY MOMENTS
+--------------------
+- India winning the 1983 & 2011 World Cups
+- Brian Lara's 400* in a Test match
+- M.S. Dhoni's last-ball six in 2011 World Cup Final
+- Ben Stokes’ Headingley miracle (2019 Ashes)
+- Yuvraj Singh’s six 6s in an over (T20 World Cup 2007)
+
+6. TERMINOLOGIES
+----------------
+- Yorker: Full-length delivery aimed at the batsman's feet
+- Googly: A deceptive leg-spin delivery
+- Silly Point: A fielding position very close to the batsman
+- Duck: Scoring zero runs
+- Century: 100 runs in a single innings
+
+7. CRICKET ORGANIZATIONS
+------------------------
+- ICC: International Cricket Council (global governing body)
+- BCCI: Board of Control for Cricket in India
+- ECB: England and Wales Cricket Board
+- CSA: Cricket South Africa
+- PCB: Pakistan Cricket Board
+
+8. DOMESTIC LEAGUES
+-------------------
+- Indian Premier League (IPL)
+- Big Bash League (BBL)
+- Caribbean Premier League (CPL)
+- Pakistan Super League (PSL)
+
+===========================================
+        END OF CRICKET OVERVIEW
+===========================================
